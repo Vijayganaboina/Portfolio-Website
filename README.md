@@ -16,7 +16,7 @@ Welcome to the personal portfolio of Vijay Kumar, a frontend developer. This por
 
 ## Demo
 
-You can view the live demo of the portfolio [here](https://your-portfolio-link.com).
+You can view the live demo of the portfolio [here](https://vijayganaboina.github.io/Portfolio-Website/).
 
 ## Features
 
@@ -48,13 +48,13 @@ To run this project locally, you need a web browser and a text editor. No additi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Vijayganaboina/vijayportfolio.git
+   git clone https://github.com/Vijayganaboina/Portfolio-Website.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd vijayportfolio
+   cd vijayportfolio-main
    ```
 
 ## Usage
